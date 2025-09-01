@@ -17,6 +17,6 @@ _this is my first project_\
   - image
   - google
   - gcr
->this is project
+>this is project \
 _my project_
-
+this is a <sub> subscript <sub\>
