@@ -18,5 +18,6 @@ _this is my first project_\
   - google
   - gcr
 >this is project \
-_my project_
-this is a <sub> subscript <sub\>
+_my project_\
+this is a <sub> subscript <\sub>\
+this is a <sup> superscript <\sup>
